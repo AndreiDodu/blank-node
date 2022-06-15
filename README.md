@@ -1,12 +1,14 @@
 # blank-node
 
+## Run
+
 `npm install`
 
 `sudo docker-compose up`
 
 `npm run start`
 
-# migrations
+## Migrations
 
 `npm run migrationnew`
 
