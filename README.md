@@ -2,13 +2,15 @@
 
 `npm install`
 
-npm run start
+`sudo docker-compose up`
+
+`npm run start`
 
 # migrations
 
-npm run migrationnew
+`npm run migrationnew`
 
-npm run typeorm migration:run
+`npm run typeorm migration:run`
 
 
 
