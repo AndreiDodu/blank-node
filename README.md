@@ -1,4 +1,7 @@
 # blank-node
+A blank node project. 
+
+Modules: apollo server (graphql), express, typeorm, postgresql
 
 ## Run
 
